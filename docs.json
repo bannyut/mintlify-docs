@@ -15,5 +15,11 @@
       },
       "second"
     ]
-  }
+  },
+  "redirects": [
+    {
+      "source": "/hello",
+      "destination": "/foo"
+    }
+  ]
 }
